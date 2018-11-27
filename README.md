@@ -1,6 +1,17 @@
-# AngularTourOfHeroes
+# Niall's Tour of Heroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+## Background
+
+Having spent a lot of time work with React I wanted to experiment with other front-end frameworks. In this rep I followed [this](https://angular.io/tutorial) tutorial to learn about angular.
+
+## Features
+* Creation of projects using the Angular CLI.
+* Creation of components using the Angular CLI.
+* Use of TypeScript.
+* Routing.
+* Observables.
+* Unit testing with via [Karma](https://karma-runner.github.io).
+* End-to-end testing with [Protractor](http://www.protractortest.org/).
 
 ## Development server
 
@@ -16,12 +27,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute the end-to-end tests.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
