@@ -2,7 +2,7 @@
 
 ## Background
 
-Having spent a lot of time work with React I wanted to experiment with other front-end frameworks. In this rep I followed [this](https://angular.io/tutorial) tutorial to learn about angular.
+Having spent a lot of time working with React I wanted to experiment with other front-end frameworks. In this rep I followed [this](https://angular.io/tutorial) tutorial to learn about Angular.
 
 ## Features
 * Creation of projects using the Angular CLI.
